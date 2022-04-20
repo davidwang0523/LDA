@@ -1,3 +1,3 @@
 # LDA
 topic modelig
-進行小王子topic modeling
+利用LDA進行topic modeling
